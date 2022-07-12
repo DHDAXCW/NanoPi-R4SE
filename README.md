@@ -1,5 +1,5 @@
 # 中文简体 | [English](https://github.com/DHDAXCW/NanoPi-R4S-2021/blob/main/EngLish.md)
-# NanoPi-R4S-2021 每天自动更新插件和内核版本。
+# NanoPi-R4SE-2021 每天自动更新插件和内核版本。
 # 机场推荐 [ENET--IEPL内网专线接入](https://www.easy2022.com/#/register?code=Ut7iWMrk)
 ## 👉使用本固件前，请严格遵守国家互联网使用相关法律规定,不要违反国家法律规定！👈
 ## 强烈推荐三星TF卡\海康TF卡。哪怕是很难刷上的固件，只有三星刷上可以开机。
@@ -15,7 +15,7 @@
 ### 默认编译  
 
 - 用户名：root 密码：password  管理IP：192.168.11.1
-- 下载地址： https://github.com/DHDAXCW/NanoPi-R4S-2021/releases
+- 下载地址： https://github.com/DHDAXCW/NanoPi-R4SE/releases
 - x86_64固件下载 https://github.com/DHDAXCW/lede/releases
 ### - Docker：正式版带docker，有超频，带有docker插件。（对passwall的udp要求很高，不要刷docker版本）
 - 电报群：https://t.me/DHDAXCW
