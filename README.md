@@ -1,9 +1,9 @@
-# 中文简体 | [English](https://github.com/DHDAXCW/NanoPi-R4S-2021/blob/main/EngLish.md)
-# NanoPi-R4SE-2021 每天自动更新插件和内核版本。
+# 中文简体 | [English](https://github.com/DHDAXCW/NanoPi-R4SE/blob/main/EngLish.md)
+# NanoPi-R4SE 每天自动更新插件和内核版本。
 # 机场推荐 [ENET--IEPL内网专线接入](https://www.easy2022.com/#/register?code=Ut7iWMrk)
 ## 👉使用本固件前，请严格遵守国家互联网使用相关法律规定,不要违反国家法律规定！👈
 ## 强烈推荐三星TF卡\海康TF卡。哪怕是很难刷上的固件，只有三星刷上可以开机。
-### 固件分类 在[releases](https://github.com/DHDAXCW/NanoPi-R4S-2021/releases)有备注关键词
+### 固件分类 在[releases](https://github.com/DHDAXCW/NanoPi-R4SE/releases)有备注关键词
 - 正式版（含超频）对折腾的，可以选择，电压一定要考虑。超频都是升压的，会造成不稳定的。比如跑cpu测试容易升压等。
 - Docker版 含Docker插件，会导致udp转发失效 慎用哦，只要别开passwall的udp，啥都不影响使用！
 - 稳定版 含有日常使用插件
